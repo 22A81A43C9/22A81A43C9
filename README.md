@@ -81,7 +81,7 @@ Marketplace connecting farmers directly with consumers.
 
 * 💼 LinkedIn: https://www.linkedin.com/in/satish-veeravalli-97365a281
 * 📧 Email: satishveeravalli2004@gmail.com
-* 🌐 VS Computers: https://vs-computers.vercel.app
+* 🌐 VS Computers: https://vscomputers.in
 
 ---
 
